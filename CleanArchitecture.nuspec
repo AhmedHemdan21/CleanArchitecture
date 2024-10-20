@@ -3,16 +3,16 @@
   <metadata>
 
     <id>Clean.Architecture.Solution.Template</id>
-    <version>8.0.6</version>
+    <version>9.0.0-preview.6.1</version>
     <title>Clean Architecture Solution Template</title>
     <authors>JasonTaylorDev</authors>
-    <description>Clean Architecture Solution Template for .NET 8.</description>
+    <description>Clean Architecture Solution Template for .NET 9.</description>
     <summary>
       A Clean Architecture Solution Template for creating apps using Angular, React, or Web API only with ASP.NET Core.
     </summary>
     <releaseNotes>
-      📦 Upgraded to Angular 17
-      ✨ Added azd compatibility
+      🚀 Fixed pipelines for .NET 9 preview
+      📦 Upgraded vulnerable packages
     </releaseNotes>
 
     <projectUrl>https://github.com/JasonTaylorDev/CleanArchitecture</projectUrl>
